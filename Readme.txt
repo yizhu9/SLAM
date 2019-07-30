@@ -10,3 +10,4 @@ The mapping.py, localization.py, rotation.py, map_util.py and the transformation
 
 The localization.py file is my particle filter which contain the predict, update and resampling step.
 
+The .ipynb file is to make change to the origin file and see the difference.
